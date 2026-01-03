@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (common names)
+venv/
+env/
+.env
+.venv/
+
+# Database (CRITICAL: Do not commit your real data)
+*.db
+*.sqlite3
+expenses.db
+expenses.json
+
+# IDE settings (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
+
+# OS specific files
+.DS_Store
+Thumbs.db
